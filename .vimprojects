@@ -1,0 +1,12 @@
+Sample Code = home/nearn/code/sample/ CD=. filter="[^_]*.php" {
+
+Ender = ender/ CD=. filter="[^_].php" {
+reaper.php
+sessionTrack.php
+}
+
+}
+
+Auth = /home/nearn/ CD=. {
+auth.bfa
+}
